@@ -9,14 +9,6 @@ Check it out: [Circuminds](https://www.youtube.com/@Circuminds)
 And for a deep dive into my experiments, projects, and portfolio: [palak-j.github.io](https://palak-j.github.io/)
 
 ---
-![ML Flow](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
-*“From raw data to meaningful insights”*
-
-![Neural Network](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)  
-*“Deep learning in action”*
-
-![Data Streams](https://media.giphy.com/media/3o7abld9tzyr9F6VJa/giphy.gif)  
-*“Data flowing through pipelines”*
 
 ## 📫 Let’s Connect
 - 🌐 [Portfolio](https://palak-j.github.io/)  
